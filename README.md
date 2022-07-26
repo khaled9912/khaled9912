@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Resturant](https://restaurantsz.herokuapp.com/)
 
-- 👯 I’m looking to collaborate on [Adding getDerivedState docs for createClass]([Add getDerivedState docs for createClass][(https://github.com/reactjs/reactjs.org/issues/1214)](https://github.com/reactjs/reactjs.org/issues/1214))
+- 👯 I’m looking to collaborate on([Add getDerivedState docs for createClass][(https://github.com/reactjs/reactjs.org/issues/1214)](https://github.com/reactjs/reactjs.org/issues/1214))
 
 - 👨‍💻 All of my projects are available at [https://front-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
 
