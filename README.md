@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Frontend  developer</h3>
 
 - 🔭 I’m currently working on [Resturant](https://restaurantsz.herokuapp.com/)
 
 - 👯 I’m looking to collaborate on [Adding support to Database-level Cascades](https://code.djangoproject.com/ticket/21961#no1)
 
-- 👨‍💻 All of my projects are available at [https://khaled-mourad.s3.us-east-2.amazonaws.com/index.html](https://khaled-mourad.s3.us-east-2.amazonaws.com/index.html)
+- 👨‍💻 All of my projects are available at [https://front-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
 
-- 💬 Ask me about **React, Django, and Django-rest-framework**
+- 💬 Ask me about **React, Redux Toolkit, MaterialUI, TypeScript, JavaScript, Node,  Django, and Django-rest-framework**
 
 - 📫 How to reach me **khaledmourad99@yahoo.com**
 
-- 📄 Know about my experiences [https://khaled-mourad.s3.us-east-2.amazonaws.com/resume.pdf](https://khaled-mourad.s3.us-east-2.amazonaws.com/resume.pdf)
+- 📄 Know about my experiences [https://front-portfolio.netlify.app/Khaled_React_Frontend.pdf](https://front-portfolio.netlify.app/Khaled_React_Frontend.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
