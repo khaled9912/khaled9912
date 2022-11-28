@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate Frontend  developer</h3>
+<h3 align="center">A passionate Full stack  developer</h3>
 
 - 🔭 I’m currently working on [Resturant](https://restaurantsz.herokuapp.com/)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://front-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
 
-- 💬 Ask me about **React, Redux Toolkit, MaterialUI, TypeScript, JavaScript, Node,  Django, and Django-rest-framework**
+- 💬 Ask me about **NodeJs, React, Redux Toolkit, MaterialUI, TypeScript, JavaScript, Node,  Django, and Django-rest-framework**
 
 - 📫 How to reach me **khaledmourad99@yahoo.com**
 
