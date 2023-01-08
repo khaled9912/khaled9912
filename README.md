@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **khaledmourad99@yahoo.com**
 
-- 📄 Know about my experiences [https://full-portfolio.netlify.app/Khaled_React_Frontend.pdf](https://full-portfolio.netlify.app/Khaled_React_Frontend.pdf)
+- 📄 Know about my experiences [[https://full-portfolio.netlify.app/Khaled_React_Frontend.pdf](https://full-portfolio.netlify.app/Khaled_React_Frontend.pdf)](https://full-portfolio.netlify.app/Khaled_Full_Stack(Nodejs&React).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
