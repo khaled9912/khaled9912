@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **NodeJs, React, Redux Toolkit, MaterialUI, TypeScript, JavaScript, Node,  Django, and Django-rest-framework**
 
-- 📫 How to reach me **khaledmourad99@yahoo.com**
+- 📫 How to reach me **khaled.mourraad@gmail.com**
 
 - 📄 Know about my experiences (https://full-portfolio.netlify.app/Khaled_Full_Stack(Nodejs&React).pdf)
 
