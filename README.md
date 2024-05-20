@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate Full stack  developer</h3>
+<h3 align="center">A passionate frontend  developer</h3>
 
 - 🔭 I’m currently working on (Ux-Ui ChatGPT](https://modern-react-ui-ux.vercel.app/))
 
@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://full-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
 
-- 💬 Ask me about **NodeJs, React, Redux Toolkit, MaterialUI, TypeScript, JavaScript, Node,  Django, and Django-rest-framework**
+- 💬 Ask me about **NextJs, React, Redux Toolkit, tailwindcss, threejs, TypeScript, JavaScript, and Node**
 
 - 📫 How to reach me **khaled.mourraad@gmail.com**
 
-- 📄 Know about my experiences (https://full-portfolio.netlify.app/Khaled_Full_Stack(Nodejs&React).pdf)
+- 📄 Know about my experiences (https://front-portfolio.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
