@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://twitter.com/khaledmourad991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaledmourad991" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khaled-mourad-61783a1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-mourad-61783a1b1" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Khaled%20%20Mourad" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="khaled-mourad-codewors" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://www.codewars.com/users/Khaled%20%20Mourad" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="khaled-mourad-codewors" height="30" width="40" /></a>
+</p> -->
 
 
 
