@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on (car show case )(https://car-show--case.vercel.app/)))
 
-//- 👯 I’m looking to collaborate on([Add getDerivedState docs for createClass][(https://github.com/reactjs/reactjs.org/issues/1214)](https://github.com/reactjs/reactjs.org/issues/1214))
-
 - 👨‍💻 All of my projects are available at [https://full-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
 
 - 💬 Ask me about **NextJs, React, Redux Toolkit, tailwindcss, threejs, TypeScript, JavaScript, and Node**
