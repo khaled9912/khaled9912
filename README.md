@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on (car show case )(https://car-show--case.vercel.app/)))
 
-- 👨‍💻 All of my projects are available at [https://full-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
+- 👨‍💻 All of my projects are available at [https://front-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
 
 - 💬 Ask me about **NextJs, React, Redux Toolkit, tailwindcss, threejs, TypeScript, JavaScript, and Node**
 
