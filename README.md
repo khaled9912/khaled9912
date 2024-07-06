@@ -1,4 +1,4 @@
-<h2 align="center">I'm a Front End Developer, ReactJs/NextJS developer and Eager to Expand Knowledge!</h2>
+<h3 align="center">I'm a Front End Developer, ReactJs/NextJS developer and Eager to Expand Knowledge!</h3>
 
 - 🌐 Passionate about web development technologies!
 
