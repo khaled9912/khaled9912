@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">I'm a Front End Developer, ReactJs/NextJS developer and Passionate About Learning!</h3>
--    Passionate about web development technologies!
--    Learning new web technologies.
+<h1 align="center">I'm a Front End Developer, ReactJs/NextJS developer and Passionate About Learning!</h1>
+
+- Passionate about web development technologies!
+
+- Learning new web technologies.   
+
 - 🔭 I’m currently working on (car show case )(https://car-show--case.vercel.app/)))
 
 - 👨‍💻 All of my projects are available at [https://front-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
