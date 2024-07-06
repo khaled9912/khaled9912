@@ -1,8 +1,8 @@
-<h1 align="center">I'm a Front End Developer, ReactJs/NextJS developer and Passionate About Learning!</h1>
+<h2 align="center">I'm a Front End Developer, ReactJs/NextJS developer and Passionate About Learning!</h2>
 
-- Passionate about web development technologies!
+- 🌐 Passionate about web development technologies!
 
-- Learning new web technologies.   
+- 🚀 Learning new web technologies.   
 
 - 🔭 I’m currently working on (car show case )(https://car-show--case.vercel.app/)))
 
