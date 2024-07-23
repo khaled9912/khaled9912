@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://front-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
 
-- 💬 Ask me about **NextJs, React, Redux Toolkit, tailwindcss, threejs, TypeScript, JavaScript, and Node**
+- 💬 Ask me about **NextJs, React, Redux Toolkit, tailwindcss, threejs, TypeScript, and JavaScript**
 
 - 📫 How to reach me **khaled.mourraad@gmail.com**
 
