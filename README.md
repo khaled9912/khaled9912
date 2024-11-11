@@ -4,7 +4,7 @@
 
 - 🚀 Learning new web technologies.   
 
-- 🔭 I’m currently working on (Banking app )([(www.anaaquran.com)](www.anaaquran.com))))
+- 🔭 I’m currently working on (AnaaQuran app )([(www.anaaquran.com)](www.anaaquran.com))))
 
 - 👨‍💻 All of my projects are available at [https://front-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
 
