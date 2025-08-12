@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **khaled.mourraad@gmail.com**
 
-- 📄 Know about my experiences (https://front-portfolio.netlify.app/
+- 📄 Know about my experiences www.khaledmourad.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
