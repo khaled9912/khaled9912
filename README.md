@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on (AnaaQuran app )([(https://www.anaaquran.com)](https://www.anaaquran.com))))
 
-- 💬 Ask me about **NextJs, ReactJs, Redux Toolkit, Zustand, Tailwindcss, Threejs, Chartjs ,TypeScript, and JavaScript**
+- 💬 Ask me about **NextJs, ReactJs, Redux Toolkit, Zustand, Tailwindcss, Threejs, Chartjs, GSAP, TypeScript, and JavaScript**
 
 - 📫 How to reach me **khaled.mourraad@gmail.com**
 
