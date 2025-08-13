@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on (AnaaQuran app )([(https://www.anaaquran.com)](https://www.anaaquran.com))))
 
-- 👨‍💻 All of my projects are available at [https://front-portfolio.netlify.app/projects.html](https://front-portfolio.netlify.app/projects.html)
-
 - 💬 Ask me about **NextJs, ReactJs, Redux Toolkit, Zustand, Tailwindcss, Threejs, Chartjs ,TypeScript, and JavaScript**
 
 - 📫 How to reach me **khaled.mourraad@gmail.com**
