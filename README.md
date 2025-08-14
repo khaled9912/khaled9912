@@ -1,16 +1,20 @@
 <h3 align="center">I'm a Front End Developer, ReactJs/NextJS developer and Eager to Expand Knowledge!</h3>
 
-- 🌐 Passionate about web development technologies!
+🌐 Passionate about modern web development technologies and creating high-performance, scalable applications.
 
-- 🚀 Learning new web technologies.   
+🚀 Constantly exploring and learning new tools, frameworks, and best practices in frontend development.
 
-- 🔭 I’m currently working on (AnaaQuran app )([(https://www.anaaquran.com)](https://www.anaaquran.com))))
+🔭 Currently working on AnaaQuran App — a platform to help non-Arabic speakers learn and recite the Quran.([(https://www.anaaquran.com)](https://www.anaaquran.com))))
 
-- 💬 Ask me about **NextJs, ReactJs, Redux Toolkit, Zustand, Tailwindcss, Threejs, Chartjs, GSAP, TypeScript, and JavaScript**
+💬 Ask me about Next.js, React.js, Redux Toolkit, Zustand, Tailwind CSS, Three.js, Chart.js, GSAP, TypeScript, JavaScript, and Progressive Web App (PWA) technologies.
 
-- 📫 How to reach me **khaled.mourraad@gmail.com**
+🛠 Experienced in building responsive UIs from Figma designs, integrating REST & GraphQL APIs, implementing real-time features with Socket.io, and optimizing performance through code-splitting, lazy loading, and image optimization.
 
-- 📄 Know about my experiences www.khaledmourad.com
+✅ Skilled in testing with Jest and Cypress to ensure stable, bug-free releases.
+
+📫 Reach me at khaled.mourraad@gmail.com
+
+📄 Learn more about my work and experience: www.khaledmourad.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
