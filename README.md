@@ -10,7 +10,7 @@
 
 🛠 Experienced in building responsive UIs from Figma designs, integrating REST & GraphQL APIs, implementing real-time features with Socket.io, and optimizing performance through code-splitting, lazy loading, and image optimization.
 
-💻 Additionally, I have good experience in backend development enabling me to work efficiently across the full stack when needed.
+💻 Additionally, I have good experience in backend development using Node.js and Django, enabling me to work efficiently across the full stack when needed.
 
 ✅ Skilled in testing with Jest and Cypress to ensure stable, bug-free releases.
 
