@@ -6,7 +6,7 @@
 
 🔭 Currently working on AnaaQuran App — a platform to help non-Arabic speakers learn and recite the Quran.([(https://www.anaaquran.com)](https://www.anaaquran.com))
 
-💬 Ask me about Next.js, React.js, Redux Toolkit, Zustand, Tailwind CSS, Three.js, Chart.js, GSAP, TypeScript, JavaScript, CMS-Strapi, Sitecore, Sentry, and Progressive Web App (PWA) technologies.
+💬 Ask me about Next.js, React.js, Redux Toolkit, Zustand, Tailwind CSS, Three.js, Chart.js, GSAP, TypeScript, JavaScript, CMS-Strapi, Django, Sitecore, Sentry, and Progressive Web App (PWA) technologies.
 
 🛠 Experienced in building responsive UIs from Figma designs, integrating REST & GraphQL APIs, implementing real-time features with Socket.io, and optimizing performance through code-splitting, lazy loading, and image optimization.
 
