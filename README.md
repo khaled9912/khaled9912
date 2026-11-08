@@ -4,7 +4,7 @@
 
 🚀 Constantly exploring and learning new tools, frameworks, and best practices in frontend development.
 
-🔭 Currently working on AnaaQuran App — a platform to help non-Arabic speakers learn and recite the Quran.([(https://www.anaaquran.com)](https://www.anaaquran.com))
+🔭 Currently working on AnaaQuran App — a platform to help non-Arabic speakers learn and recite the Quran.([(https://www.anaquran.com)](https://www.anaquran.com))
 
 💬 Ask me about Next.js, React.js, Redux Toolkit, Zustand, Tailwind CSS, Three.js, Chart.js, GSAP, TypeScript, JavaScript, CMS-Strapi, Django, Sitecore, Sentry, and Progressive Web App (PWA) technologies.
 
